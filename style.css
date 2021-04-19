@@ -68,6 +68,7 @@
     font-size: 9pt;
     background: #a29750;
     color: #fff5b0;
+    cursor: pointer;
 }
 
 #container-menu {
@@ -145,7 +146,7 @@ body {
     margin: auto;
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    align-items: center;
     padding: 7px;
     font-size: 13px;
     border-bottom: 1px solid white;
