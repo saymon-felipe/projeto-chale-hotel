@@ -136,7 +136,7 @@ body {
     width: 50%;
     padding-top: 25px;
     float: right;
-    min-height: 450px;
+    min-height: 455px;
     background: #DED9B7 url(imagens/bg-area-lateral.png) repeat-x;
 }
 
@@ -163,14 +163,11 @@ body {
 
 #ultimo {
     border: none;
+    margin-bottom: 20px;
 }
 
 .item img {
     width: 150px;
-}
-
-#ultimo {
-    margin-bottom: 20px;
 }
 
 .item p {
